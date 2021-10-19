@@ -10,13 +10,13 @@ En primer lugar comenzamos con los comandos de instalacion:
 
   * sudo apt-get install postgresql
 
-![Imagen IaaS](Postgre_Intro/insert.jpg)
+![Intro postgre](Postgre_Intro/install.jpg)
 
 A continuacion, depues de realizar la instalacion, deberemos acceder con el superusuario de postgre y crear un usuario con los siguientes comandos:
 
   * sudo su postgres password: XXXXXXXXXX
  
- IMAGEN SUDO 
+![Intro postgre](Postgre_Intro/sudo.jpg) 
  
  Para entrar en la línea de comandos de postgre y así poder crear " mi usuario", deberemos escribir " psql " y ya dentro escribir lo siguiente: 
  
@@ -24,24 +24,26 @@ A continuacion, depues de realizar la instalacion, deberemos acceder con el supe
   * alter role miusuario with password 'mipassword';
  
  
- IMAGEN MIUSUARIO
+![Intro postgre](Postgre_Intro/miusuario2.jpg)
  
  Para terminar con la parte de introduccion, se ralizo la prueba de algunos de los comandos mas basicos de postgre: 
  
- IMAGEN COMANDOS
+![Intro postgre](Postgre_Intro/interesante.jpg)
  
  
  Pasando a la segunda parte de la practica, pasamos a crear la tabla que se nos ha pedido en el enunciado:
  
   * Priemro Creamos la tabla
-
-
+  * 
+![Intro postgre](Postgre_Intro/tabla.jpg)
 
   * En segundo lugar realizamos los insert
-
-
+  
+![Intro postgre](Postgre_Intro/insert.jpg)
 
   * Mostramos la tabla resultante
+ 
+ ![Intro postgre](Postgre_Intro/tablafinal.jpg)
  
  
  
