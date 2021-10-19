@@ -10,7 +10,7 @@ En primer lugar comenzamos con los comandos de instalacion:
 
   * sudo apt-get install postgresql
 
-IMAGEN INSTALL
+![Imagen IaaS](Postgre_Intro/insert.jpg)
 
 A continuacion, depues de realizar la instalacion, deberemos acceder con el superusuario de postgre y crear un usuario con los siguientes comandos:
 
