@@ -31,20 +31,20 @@ abarata los costes relacionados con los materiales de contrucción.
 
 Antes de empezar a construir hay que tomar muestras del agua de lluvia y el suelo:
 
-*Alquiler de equipo de laboratorio -> Contrato.
-*Almacenaje de los resultados de las pruebas -> Informe.
+* Alquiler de equipo de laboratorio -> Contrato.
+* Almacenaje de los resultados de las pruebas -> Informe.
 
 Una vez todo probado, proceder al diseño y presupuestación:
 
-*Contratación de un arquitecto -> Contrato.
-*Contratación de un secretario para la contabilidad -> Contrato.
-*Presupuestación del equipo de obra -> Presupuesto.
-*Presupuestación del alquiler de la maquinaria de obra -> Presupuesto.
+* Contratación de un arquitecto -> Contrato.
+* Contratación de un secretario para la contabilidad -> Contrato.
+* Presupuestación del equipo de obra -> Presupuesto.
+* Presupuestación del alquiler de la maquinaria de obra -> Presupuesto.
 
 Lo siguiente, es iniciar la construcción de la charca:
 
-*Almacenaje de los informes sobre el transcurso de la obra -> Informes semanales.
-*Almacenaje de las facturas de la contratación del equipo de obra -> Facturas.
+* Almacenaje de los informes sobre el transcurso de la obra -> Informes semanales.
+* Almacenaje de las facturas de la contratación del equipo de obra -> Facturas.
 
 Una vez construida, al principio semanalmente y posteriormente mensualmente, se deben
 hacer análisis del agua y limpiezas bianuales de la charca. Como el objetivo de la
@@ -53,10 +53,10 @@ autosuficiente.
 
 Hacen los primeros tests:
 
-*Compra de equipo de laboratorio -> Facturas.
-*Compra de equipo de limpieza -> Facturas.
-*Contratación de hidrólogo -> Contrato.
-*Alquiler de instalaciones para dar la formación -> Contrato.
+* Compra de equipo de laboratorio -> Facturas.
+* Compra de equipo de limpieza -> Facturas.
+* Contratación de hidrólogo -> Contrato.
+* Alquiler de instalaciones para dar la formación -> Contrato.
 
 En resúmen, la cantidad de documentos que se debe almacenar para un único proyecto es
 monumental y muy variada. Es por esto por lo que, para una organización que se dedique a
