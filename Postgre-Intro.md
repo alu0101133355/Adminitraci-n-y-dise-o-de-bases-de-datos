@@ -16,7 +16,7 @@ A continuacion, depues de realizar la instalacion, deberemos acceder con el supe
 
   * sudo su postgres password: XXXXXXXXXX
  
-![Intro postgre](Postgre_Intro/sudo.jpg) 
+![Intro postgre](Postgre_Intro/misudo.jpg) 
  
  Para entrar en la línea de comandos de postgre y así poder crear " mi usuario", deberemos escribir " psql " y ya dentro escribir lo siguiente: 
  
